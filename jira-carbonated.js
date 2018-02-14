@@ -3,7 +3,7 @@
 // @namespace     http://userstyles.org
 // @description	  Dark theme for the Jira website
 // @author        jeffstahlin
-// @homepage      https://userstyles.org/styles/154743
+// @homepage      https://github.com/jeffstahlin/jira-carbonated
 // @include       http://jira*
 // @include       https://jira*
 // @include       http://jira.atlassian.com/*
