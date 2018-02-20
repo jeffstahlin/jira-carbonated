@@ -11,7 +11,7 @@
 // @include       http://*.jira.atlassian.com/*
 // @include       https://*.jira.atlassian.com/*
 // @run-at        document-start
-// @version       0.1
+// @version       0.2
 // ==/UserScript==
 (function () {
     var css = [
